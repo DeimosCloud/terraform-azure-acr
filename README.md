@@ -39,13 +39,13 @@ Full contributing guidelines are covered [here](CONTRIBUTING.md).
 | Name | Version |
 |------|---------|
 | terraform | >= 0.12 |
-| azurerm | >= 2.0 |
+| azurerm | ~> 2.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| azurerm | >= 2.0 |
+| azurerm | ~> 2.0 |
 
 ## Inputs
 
